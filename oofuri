@@ -3,10 +3,10 @@
   "description": "Recent chapters of Plus Thinking Team scanlation group",
   "artist": "Higuchi Asa",
   "author": "Higuchi Asa",
-  "cover": "i.imgur.com/3Fyznql.png",
+  "cover": "https://i.imgur.com/3Fyznql.png",
   "chapters": {
     "151": {
-      "title": "Chapter 151: The 4 Cities Tournament (22)",
+      "title": "The 4 Cities Tournament (22)",
       "volume": "32",
       "groups": {
         "Plus Thinking Team": "/proxy/api/imgur/chapter/ElnCMz4/"
@@ -14,7 +14,7 @@
       "last_updated": "1617995140"
     },
     "150": {
-      "title": "Chapter 150: The 4 Cities Tournament (21)",
+      "title": "The 4 Cities Tournament (21)",
       "volume": "31",
       "groups": {
         "Plus Thinking Team": "/proxy/api/imgur/chapter/f24MxJ2/"
