@@ -1,18 +1,10 @@
 {
   "title": "Ookiku Furikabutte",
-  "description": "Recent chapters scanlated by Plus Thinking Team...",
+  "description": "Recent chapters scanlated by Plus Thinking Team",
   "artist": "Higuchi Asa",
   "author": "Higuchi Asa",
   "cover": "https://i.imgur.com/3Fyznql.png",
   "chapters": {
-    "153": {
-      "title": "The 4 Cities Tournament (24)",
-      "volume": "32",
-      "groups": {
-        "Plus Thinking Team": "/proxy/api/imgur/chapter/DI4CdaN/"
-      },
-      "last_updated": "1619573949"
-    },
   "152": {
       "title": "The 4 Cities Tournament (23)",
       "volume": "32",
