@@ -5,6 +5,14 @@
   "author": "Higuchi Asa",
   "cover": "https://i.imgur.com/3Fyznql.png",
   "chapters": {
+     "155": {
+      "title": "Lunch (2)",
+      "volume": "32",
+      "groups": {
+        "Plus Thinking Team": "/proxy/api/imgur/chapter/zuZw1iA/"
+      },
+      "last_updated": "1622301691"
+    },
    "154": {
       "title": "Lunch",
       "volume": "32",
@@ -13,7 +21,6 @@
       },
       "last_updated": "1620816830"
     },
-
     "153": {
       "title": "The 4 Cities Tournament (24)",
       "volume": "32",
