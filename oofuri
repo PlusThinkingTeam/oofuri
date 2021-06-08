@@ -1,10 +1,18 @@
 {
   "title": "Ookiku Furikabutte",
-  "description": "Recent chapters scanlated by Plus Thinking Team!",
+  "description": "Recent chapters scanlated by Plus Thinking Team.",
   "artist": "Higuchi Asa",
   "author": "Higuchi Asa",
   "cover": "https://i.imgur.com/MJKm0h2.png",
   "chapters": {
+       "156": {
+      "title": "Stimulus",
+      "volume": "33",
+      "groups": {
+        "Plus Thinking Team": "/proxy/api/imgur/chapter/3LMAotJ/"
+      },
+      "last_updated": "1623132208"
+    },
      "155": {
       "title": "Lunch (2)",
       "volume": "32",
