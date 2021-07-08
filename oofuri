@@ -5,7 +5,15 @@
   "author": "Higuchi Asa",
   "cover": "https://i.imgur.com/f1A3yPZ.png",
   "chapters": {
-         "157": {
+    "158": {
+      "title": "Winter Beginnings (2)",
+      "volume": "33",
+      "groups": {
+        "Plus Thinking Team": "/proxy/api/imgur/chapter/s4kLVDC/"
+      },
+      "last_updated": "1625777725"
+    },
+    "157": {
       "title": "Winter Beginnings",
       "volume": "33",
       "groups": {
